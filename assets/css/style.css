@@ -224,7 +224,7 @@ header{
 .sec3_text1{
     font-weight: 500;
     font-size: 48px;
-    width: 397px;
+    width: 382px;
     margin-left: 800px;
     margin-top: 150px;
 }
@@ -284,7 +284,7 @@ header{
     background-color: white;
 }
 /*----------------------sec5------------------------------*/
-.section6{
+.section5{
     margin: 0 auto;
     width: 1600px;
     margin-top: 150px;
@@ -292,18 +292,18 @@ header{
 .sec4_line{
     margin-left: 401px;
 }
-.sec6_text{
+.sec5_text{
     font-weight: 600;
     font-size: 64px;
     text-transform: uppercase;
     margin-left: 401px;
     margin-top: 40px;
 }
-.sec6_img1{
+.sec5_img1{
     margin-left: 401px;
     margin-top: 40px;
 }
-.sec6_img2{
+.sec5_img2{
     margin-left: 401px;
     margin-top: 150px;
     width: 289px;
@@ -313,7 +313,7 @@ header{
     display: flex;
     flex-direction: column;
 }
-.sec6_img3{
+.sec5_img3{
     margin-left: 401px;
     margin-top: 20px;
     width: 289px;
@@ -322,11 +322,11 @@ header{
 .firsts_img{
     display: flex;
 }
-.sec6_img4{
+.sec5_img4{
     margin-left: 108px;
     margin-top: 150px;
 }
-.sec6_text1{
+.sec5_text1{
     font-weight: 600;
     font-size: 18px;
     width: 376px;
@@ -337,9 +337,185 @@ header{
     margin-left: 401px;
     margin-top: 150px;
 }
-.sec6_img6{
+.sec5_img6{
     margin-left: 197px;
     margin-top: 162px;
 }
+.lower_part{
+    display: flex;
+    margin-left: 421px;
+}
+.sec5_img7{
+    margin-top: 20px;
+    margin-left: 196px;
+}
+.sec5_left_texts{
+    margin-top: 100px;
+}
+.sec5_left_text{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 14px;
+    margin-bottom: 15px;
+}
+.btn3{
+    width: 400px;
+    height: 60px;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-top: 70px;
+    background-color: white;
+    margin-left: -19px;
+}
+.lower_line{
+    margin-left: 401px;
+    margin-top: 70px;
+}
+.arrows{
+    margin-left: 800px;
+    margin-top: 70px;
+}
+.arrow_left{
+    margin-right: 80px;
+}
 /*----------------------sec6------------------------------*/
+.section6{
+    margin: 0 auto;
+    width: 1600px;
+}
+.sec6_text{
+    font-weight: 600;
+    font-size: 48px;
+    width: 600px;
+    margin-left: 801px;
+    margin-top: 150px;
+}
+.sec6_subtext{
+    font-weight: 500;
+    font-size: 18px;
+    margin-left: 801px;
+    margin-top: 40px;
+}
+.sec6_imgs{
+    display: flex;
+    margin-left: 800px;
+}
+.sec6_img{
+    width: 48px;
+    height: 48px;
+    margin-right: 40px;
+    margin-top: 50px;
+    
+}
 /*----------------------sec7------------------------------*/
+footer{
+    margin: 0 auto;
+    width: 1600px;
+    margin-top: 150px;
+}
+.rect{
+    background-color: #161616;
+    padding-left: 200px;
+    padding-top: 62px;
+    padding-bottom: 17px;
+}
+.text_foot{
+    font-weight: 600px  ;
+    font-size: 14px;
+    color: white;
+}
+.foot{
+    display: flex;
+    align-items: center;
+}
+.right_text_upper_line{
+    display: flex;
+    margin-left: 498px;
+    margin-top: 6px;
+}
+.com_text{
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+    text-transform: uppercase;
+    margin-left: 17px;
+}
+.upper_line_foot{
+    display: flex;
+}
+.com{
+    display: flex;
+    align-items: center;
+    margin-right: 98px;
+}
+.middle_line{
+    display: flex;
+}
+.left_middle_line_text{
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+    width: 400px;
+    margin-left: 54px;
+    margin-top: 46px;
+}
+.right_middle_line_text{
+    display: flex;
+    margin-left: 145px;
+    margin-top: 40px;
+}
+.column1_text{
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+    margin-bottom: 17px;
+}
+.column2_text{
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+    margin-left: 78px;
+}
+.column3_text{
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+    margin-left: 58px;
+    margin-bottom: 17px;
+}
+.foot_low_line{
+    margin-left: 54px;
+}
+.bottom_line{
+    display: flex;
+    margin-top: 17px;
+    margin-left: 54px;
+    }
+.bottom_line_text1{
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+    text-transform: uppercase;
+}
+.bottom_line_text2{
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+    margin-left: 264px;
+    margin-right: 23.38px;
+    text-transform: uppercase;
+}
+.bottom_line_text3{
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+    margin-right: 15px;
+    text-transform: uppercase;
+}
+.bottom_line_text4{
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+    text-transform: uppercase;
+}
